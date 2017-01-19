@@ -1,0 +1,11 @@
+
+.square-container{
+
+			border:2px solid red;
+			float:left;
+		}
+	.selected
+	{
+		background-color: green;
+		font-size: 25px;
+	}
